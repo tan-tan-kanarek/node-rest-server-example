@@ -1,0 +1,14 @@
+{
+  "name": "node-rest-server-example",
+  "version": "0.1.0",
+  "description": "node-rest-server-example",
+  "main": "index.js",
+  "repository": "https://github.com/tan-tan-kanarek/node-rest-server-example",
+  "author": "Johnathan Kanarek",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies" : {
+	  "sqlite3" : "3.1.8",
+	  "xml" : "1.0.1"
+  }
+}
